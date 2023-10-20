@@ -1,0 +1,992 @@
+[
+  {
+    "NFT_Type": "Fitness Influencer Male",
+    "Song to pair": " pump_up_the_jam.mp3 ",
+    "File Name": "Character NFT MISC Fitness Influencer M2 V2.jpg",
+    "NFT Name/Title": "Fitness Influencer #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeie3bnofgpul3dtnwrd2c3fch3tb572zqyzsrnznul5sjau3ohdenu",
+    "IPFS CID Image": "ipfs://bafybeicxdpq3txuleqphdk2xrnturwlwu5tlmd2gzub67bsdtsyjz53s3y"
+  },
+  {
+    "NFT_Type": "Fitness Influencer Female",
+    "Song to pair": "pump_up_the_jam.mp3",
+    "File Name": "Character NFT MISC Fitness Influencer F1V2.jpg",
+    "NFT Name/Title": "Fitness Influencer #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeie3bnofgpul3dtnwrd2c3fch3tb572zqyzsrnznul5sjau3ohdenu",
+    "IPFS CID Image": "ipfs://bafybeifsssytfkuwo4d3p7ny3hanf6etheln7kb7zxaczzxl6njijggbfu"
+  },
+  {
+    "NFT_Type": "Fitness Influencer Female",
+    "Song to pair": " pump_up_the_jam.mp3 ",
+    "File Name": "Character NFT MISC Fitness Influencer f2 V2.jpg",
+    "NFT Name/Title": "Fitness Influencer #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeie3bnofgpul3dtnwrd2c3fch3tb572zqyzsrnznul5sjau3ohdenu",
+    "IPFS CID Image": "ipfs://bafybeicuojn6on7mocvsmj45x5ugrvvsgdyvfti7ylxcsoqye5vmgxa7a4"
+  },
+  {
+    "NFT_Type": "Race Car Driver (Nascar)",
+    "Song to pair": " Nascar Theme ",
+    "File Name": "Character NFT MISC Nascar Driver M1 V2.jpg",
+    "NFT Name/Title": "Nascar Driver #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeic6czrt72jntlnoukxdmf7tedwsthhh4vfocfrp7kd3zioyzglcsa",
+    "IPFS CID Image": "ipfs://bafybeicbsmtr6og5kn2ed4zwa6khzlnh4sjlp2ib2cr6eqbdnhfryd7nci"
+  },
+  {
+    "NFT_Type": "Race Car Driver (Nascar)",
+    "Song to pair": " Nascar Theme ",
+    "File Name": "Character NFT MISC Nascar Driver M2 V2.jpg",
+    "NFT Name/Title": "Nascar Driver #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeic6czrt72jntlnoukxdmf7tedwsthhh4vfocfrp7kd3zioyzglcsa",
+    "IPFS CID Image": "ipfs://bafybeicgypkzxo535n36pz6crybvkbhdywmcfbi55qbp6npmxxmemldlxi"
+  },
+  {
+    "NFT_Type": "Race Car Driver (Nascar)",
+    "Song to pair": " Nascar Theme ",
+    "File Name": "Character NFT MISC Nascar Driver F1 V2.jpg",
+    "NFT Name/Title": "Nascar Driver #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeic6czrt72jntlnoukxdmf7tedwsthhh4vfocfrp7kd3zioyzglcsa",
+    "IPFS CID Image": "ipfs://bafybeiba37ce2f7c2ozbfk22yxlnz6cjy6cabuig4n5pmxdxfehp5m4bry"
+  },
+  {
+    "NFT_Type": "Race Car Driver (Nascar)",
+    "Song to pair": " Nascar Theme ",
+    "File Name": "Character NFT MISC Nascar Driver F2 V2.jpg",
+    "NFT Name/Title": "Nascar Driver #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeic6czrt72jntlnoukxdmf7tedwsthhh4vfocfrp7kd3zioyzglcsa",
+    "IPFS CID Image": "ipfs://bafybeif7xwjtekobm2inj7yzjxdmkhirqz5v4kcggpj3eq24rcrrpl54be"
+  },
+  {
+    "NFT_Type": "Skater Guy",
+    "Song to pair": "Jerry was a racecar driver",
+    "File Name": "Character NFT MISC Skateboarder 1 V2.jpg",
+    "NFT Name/Title": "Skateboarder #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiglug54egzbohzdqmmfjfte2a6yzgc5wobaqfm6ptu4tusbp7lgha",
+    "IPFS CID Image": "ipfs://bafybeigmsw2sr2rd4e72kcivvycqifk76v5al4nf57ucfpk7b4bzf7ecva"
+  },
+  {
+    "NFT_Type": "Skater Guy",
+    "Song to pair": "Jerry was a racecar driver",
+    "File Name": "Character NFT MISC Skateboarder 2 V2.jpg",
+    "NFT Name/Title": "Skateboarder #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiglug54egzbohzdqmmfjfte2a6yzgc5wobaqfm6ptu4tusbp7lgha",
+    "IPFS CID Image": "ipfs://bafybeidznifpazsdn7zwduozsstkkqvdftjpv3m5flkhbbrqpof3czezs4"
+  },
+  {
+    "NFT_Type": "Skater Guy",
+    "Song to pair": "Jerry was a racecar driver",
+    "File Name": "Character NFT MISC Skateboarder 3 V2.jpg",
+    "NFT Name/Title": "Skateboarder #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiglug54egzbohzdqmmfjfte2a6yzgc5wobaqfm6ptu4tusbp7lgha",
+    "IPFS CID Image": "ipfs://bafybeidwkngc3eyfklrz6r4fy3wg47wjdvvaop4pbv6ls33mjwhpsn3hya"
+  },
+  {
+    "NFT_Type": "Homeless Guy",
+    "Song to pair": " Pearl Jam Even Flow ",
+    "File Name": "Character NFT MISC URBAN CAMPER 1 V2.jpg",
+    "NFT Name/Title": "Urban Camper #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiapbexgnmy6dqu7lwsf2wdkunx72ve7fmtsh6griipj5uws6cldki",
+    "IPFS CID Image": "ipfs://bafybeihx4ibxqg2mllelpxbvx6kniukqsc6dpyzmt6e7hqow3jfr2h5zdq"
+  },
+  {
+    "NFT_Type": "Homeless Guy",
+    "Song to pair": " Pearl Jam Even Flow ",
+    "File Name": "Character NFT MISC URBAN CAMPER 2 V2.jpg",
+    "NFT Name/Title": "Urban Camper #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiapbexgnmy6dqu7lwsf2wdkunx72ve7fmtsh6griipj5uws6cldki",
+    "IPFS CID Image": "ipfs://bafybeig5gj3ntka3smhcnl5rjaloxkvn5zmauz3akuwoz7sjmz3mwrp35y"
+  },
+  {
+    "NFT_Type": "Homeless Guy",
+    "Song to pair": " Pearl Jam Even Flow ",
+    "File Name": "Character NFT MISC URBAN CAMPER 3 V2.jpg",
+    "NFT Name/Title": "Urban Camper #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiapbexgnmy6dqu7lwsf2wdkunx72ve7fmtsh6griipj5uws6cldki",
+    "IPFS CID Image": "ipfs://bafybeicfxvc7vkujaybcqpszwhptbfgovfiupod6l6bkiq42i56dhz6g7a"
+  },
+  {
+    "NFT_Type": "Homeless Guy",
+    "Song to pair": " Pearl Jam Even Flow ",
+    "File Name": "Character NFT MISC URBAN CAMPER 4 V2.jpg",
+    "NFT Name/Title": "Urban Camper #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiapbexgnmy6dqu7lwsf2wdkunx72ve7fmtsh6griipj5uws6cldki",
+    "IPFS CID Image": "ipfs://bafybeiadktnnkcq65glhms66f7zks3e5v5dfagz37hevo7xhec5jtvoche"
+  },
+  {
+    "NFT_Type": "Rapper Male",
+    "Song to pair": "90's Hip Hop Beat",
+    "File Name": "Character NFT MISC Rapper M1 V2.jpg",
+    "NFT Name/Title": "Rapper #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahngoddny42dgapnnzwxkx7wzdtefpnzmpixk6ub6ocdht4dcsbu",
+    "IPFS CID Image": "ipfs://bafybeicr7v7nd7eemqtihcaeftafnorofhmwpqwcgdf6wumhr2kizivmre"
+  },
+  {
+    "NFT_Type": "Rapper Male",
+    "Song to pair": "90's Hip Hop Beat",
+    "File Name": "Character NFT MISC Rapper M2 V2.jpg",
+    "NFT Name/Title": "Rapper #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahngoddny42dgapnnzwxkx7wzdtefpnzmpixk6ub6ocdht4dcsbu",
+    "IPFS CID Image": "ipfs://bafybeigsbtsvf7yxjx5qtksu2fmiiiyd75ehh7oymypvtnef7zjb6szzk4"
+  },
+  {
+    "NFT_Type": "Rapper Female",
+    "Song to pair": "90's Hip Hop Beat",
+    "File Name": "Character NFT MISC Rapper F1 V2.jpg",
+    "NFT Name/Title": "Rapper #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahngoddny42dgapnnzwxkx7wzdtefpnzmpixk6ub6ocdht4dcsbu",
+    "IPFS CID Image": "ipfs://bafybeibktefo7tryzb5w5fn66ywl2vtcmeapncqtcoonelpaudnngosj2i"
+  },
+  {
+    "NFT_Type": "Rapper Female",
+    "Song to pair": "90's Hip Hop Beat",
+    "File Name": "Character NFT MISC Rapper F2 V2.jpg",
+    "NFT Name/Title": "Rapper #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahngoddny42dgapnnzwxkx7wzdtefpnzmpixk6ub6ocdht4dcsbu",
+    "IPFS CID Image": "ipfs://bafybeich4yiuwib7nj4x6f2g4ml7fgpm55vp7wwasu36xebvrnsoygi4da"
+  },
+  {
+    "NFT_Type": "Cowboy",
+    "Song to pair": "90's Country",
+    "File Name": "Character NFT MISC Cowboy 1 V2.jpg",
+    "NFT Name/Title": "Cowboy #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahq6tnj7t4uoyfn7ibqlkzl5xu2xtriyaktz2czrcxyxejmvilji",
+    "IPFS CID Image": "ipfs://bafybeibxni2aoevos3bmcqsmwalk37vaf532scoycegpw3w7os2zihv6ha"
+  },
+  {
+    "NFT_Type": "Cowboy",
+    "Song to pair": "90's Country",
+    "File Name": "Character NFT MISC Cowboy 2 V2.jpg",
+    "NFT Name/Title": "Cowboy #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahq6tnj7t4uoyfn7ibqlkzl5xu2xtriyaktz2czrcxyxejmvilji",
+    "IPFS CID Image": "ipfs://bafybeiccoqhytj4xercylppcniwyj66x6fskynthcozombvtwbwgieatlq"
+  },
+  {
+    "NFT_Type": "Cowboy",
+    "Song to pair": "90's Country",
+    "File Name": "Character NFT MISC Cowboy 3 V2.jpg",
+    "NFT Name/Title": "Cowboy #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahq6tnj7t4uoyfn7ibqlkzl5xu2xtriyaktz2czrcxyxejmvilji",
+    "IPFS CID Image": "ipfs://bafybeifzx5shqoculvoehhr4u3ibpfx6domqiq7xvcdi7qas56n7qh533i"
+  },
+  {
+    "NFT_Type": "Cowboy",
+    "Song to pair": "90's Country",
+    "File Name": "Character NFT MISC Cowboy 4 V2.jpg",
+    "NFT Name/Title": "Cowboy #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahq6tnj7t4uoyfn7ibqlkzl5xu2xtriyaktz2czrcxyxejmvilji",
+    "IPFS CID Image": "ipfs://bafybeidcdtljj74hptivxobl32zlcyrko5lgojzfixqfcmdcln5yvyoe2y"
+  },
+  {
+    "NFT_Type": "CowGirl",
+    "Song to pair": "90's Country",
+    "File Name": "Character NFT MISC Cowgirl 1 V2.jpg",
+    "NFT Name/Title": "Cowgirl #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahq6tnj7t4uoyfn7ibqlkzl5xu2xtriyaktz2czrcxyxejmvilji",
+    "IPFS CID Image": "ipfs://bafybeia6ml335pjmm7b7k76qegpghxl6schme6njjhxjzcmy7eq65slheq"
+  },
+  {
+    "NFT_Type": "CowGirl",
+    "Song to pair": "90's Country",
+    "File Name": "Character NFT MISC Cowgirl 2 V2.jpg",
+    "NFT Name/Title": "Cowgirl #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahq6tnj7t4uoyfn7ibqlkzl5xu2xtriyaktz2czrcxyxejmvilji",
+    "IPFS CID Image": "ipfs://bafybeibhadebbl2rhntm52jiwefznvqhxccramyiwcegvt2tabgnmkihiu"
+  },
+  {
+    "NFT_Type": "CowGirl",
+    "Song to pair": "90's Country",
+    "File Name": "Character NFT MISC Cowgirl 3 V2.jpg",
+    "NFT Name/Title": "Cowgirl #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahq6tnj7t4uoyfn7ibqlkzl5xu2xtriyaktz2czrcxyxejmvilji",
+    "IPFS CID Image": "ipfs://bafybeie4m3qhgo4grkahapa5wtp6bgj3rz3hjinyaeme3dcvrf6pfjl6wi"
+  },
+  {
+    "NFT_Type": "CowGirl",
+    "Song to pair": "90's Country",
+    "File Name": "Character NFT MISC Cowgirl 4 V2.jpg",
+    "NFT Name/Title": "Cowgirl #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiahq6tnj7t4uoyfn7ibqlkzl5xu2xtriyaktz2czrcxyxejmvilji",
+    "IPFS CID Image": "ipfs://bafybeice5wy2xkxzls5t52zckyo6b7wr6iaehx3aevljdr4xei5diwtgrm"
+  },
+  {
+    "NFT_Type": "Playboy Bunnies",
+    "Song to pair": " Pour Some Sugar on me ",
+    "File Name": "Character NFT MISC Playboy Bunny 1 V2.jpg",
+    "NFT Name/Title": "Playboy Bunny #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiajsn6s6mxu7qgf33nrpa4bwkceiojndh3kscnsoplp477l2qwumi",
+    "IPFS CID Image": "ipfs://bafybeiaucfyv3wh6adsztmt5dsrv7wtfa2fup56ytxqe5pk5kvwtr6ejqu"
+  },
+  {
+    "NFT_Type": "Playboy Bunnies",
+    "Song to pair": " Pour Some Sugar on me ",
+    "File Name": "Character NFT MISC Playboy Bunny 2 V2.jpg",
+    "NFT Name/Title": "Playboy Bunny #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiajsn6s6mxu7qgf33nrpa4bwkceiojndh3kscnsoplp477l2qwumi",
+    "IPFS CID Image": "ipfs://bafybeidmcunbstzw6kzri6bjjpbgke5jxbogjlmtf46qbvkmspdjqii4ai"
+  },
+  {
+    "NFT_Type": "Playboy Bunnies",
+    "Song to pair": " Pour Some Sugar on me ",
+    "File Name": "Character NFT MISC Playboy Bunny 3 V2.jpg",
+    "NFT Name/Title": "Playboy Bunny #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiajsn6s6mxu7qgf33nrpa4bwkceiojndh3kscnsoplp477l2qwumi",
+    "IPFS CID Image": "ipfs://bafybeifawqkh3fnmdfd625xtrvq3ol2iyshwi7vtkdlg6xoqzmdr757qr4"
+  },
+  {
+    "NFT_Type": "Chippendales",
+    "Song to pair": " Pour Some Sugar on me ",
+    "File Name": "Character NFT MISC Cchippendale 1 V2.jpg",
+    "NFT Name/Title": "Chippendale #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiajsn6s6mxu7qgf33nrpa4bwkceiojndh3kscnsoplp477l2qwumi",
+    "IPFS CID Image": "ipfs://bafybeid3xn6eiu2fc4edbx36cj4daqhs5tkfdbaxrlhghxwn44c7vfrnxq"
+  },
+  {
+    "NFT_Type": "Chippendales",
+    "Song to pair": " Pour Some Sugar on me ",
+    "File Name": "Character NFT MISC Chippendale 2 V2.jpg",
+    "NFT Name/Title": "Chippendale #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiajsn6s6mxu7qgf33nrpa4bwkceiojndh3kscnsoplp477l2qwumi",
+    "IPFS CID Image": "ipfs://bafybeih7xxvk7ibpmxu62aj4yjc32cluxyl7szm52qu65b7lev52adlfxy"
+  },
+  {
+    "NFT_Type": "Chippendales",
+    "Song to pair": " Pour Some Sugar on me ",
+    "File Name": "Character NFT MISC Chippendale 3 V2.jpg",
+    "NFT Name/Title": "Chippendale #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiajsn6s6mxu7qgf33nrpa4bwkceiojndh3kscnsoplp477l2qwumi",
+    "IPFS CID Image": "ipfs://bafybeigadlce6xngssdqqj53v6fwdlr3i3pwscdsnjngiqykcvdvrktuny"
+  },
+  {
+    "NFT_Type": "Punk Rocker Male",
+    "Song to pair": " Ramones Blitzkrieg Blop  ",
+    "File Name": "Character NFT MISC Punk Rocker M1 V2.jpg",
+    "NFT Name/Title": "Punk Rocker #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeifstltillsbbursaotrspzozuaizcu23obutkp2t65kjua6mkilpa",
+    "IPFS CID Image": "ipfs://bafybeid6mk45rw2jjgd4tdiontx5xn35zahleds7xqtpikqtre46hr6fhy"
+  },
+  {
+    "NFT_Type": "Punk Rocker Male",
+    "Song to pair": " Ramones Blitzkrieg Blop  ",
+    "File Name": "Character NFT MISC Punk Rocker M2 V2.jpg",
+    "NFT Name/Title": "Punk Rocker #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeifstltillsbbursaotrspzozuaizcu23obutkp2t65kjua6mkilpa",
+    "IPFS CID Image": "ipfs://bafybeih32ydz3hzgyx3xij2eaiwswxmiedwk25zti23ywzvliz5riuojzy"
+  },
+  {
+    "NFT_Type": "Punk Rocker Male",
+    "Song to pair": " Ramones Blitzkrieg Blop  ",
+    "File Name": "Character NFT MISC Punk Rocker M3 V2.jpg",
+    "NFT Name/Title": "Punk Rocker #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeifstltillsbbursaotrspzozuaizcu23obutkp2t65kjua6mkilpa",
+    "IPFS CID Image": "ipfs://bafybeic35gneqqibufkpueev62vv3m37fg3ps3ezgugzzr757ifybzoktu"
+  },
+  {
+    "NFT_Type": "Punk Rocker Male",
+    "Song to pair": " Ramones Blitzkrieg Blop  ",
+    "File Name": "Character NFT MISC Punk Rocker M4 V2.jpg",
+    "NFT Name/Title": "Punk Rocker #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeifstltillsbbursaotrspzozuaizcu23obutkp2t65kjua6mkilpa",
+    "IPFS CID Image": "ipfs://bafybeibw6rnpcuwkvgez6euc6ty3rdoic5kzqpoql5kszl3wdofr7vdbh4"
+  },
+  {
+    "NFT_Type": "Punk Rocker Female",
+    "Song to pair": " I love Rock n Roll ",
+    "File Name": "Character NFT MISC Punk Rocker F1 V2.jpg",
+    "NFT Name/Title": "Punk Rocker #5",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiajlvdhtpuddfsbts443dewvy46jx7t7ytk2voks54s5cclcn5sj4",
+    "IPFS CID Image": "ipfs://bafybeibzg6h45ggombf2xfidcgd5d2vynvdi4sxa3rjdfhadrtj4hb7d3q"
+  },
+  {
+    "NFT_Type": "Punk Rocker Female",
+    "Song to pair": " I love Rock n Roll ",
+    "File Name": "Character NFT MISC Punk Rocker F2 V2.jpg",
+    "NFT Name/Title": "Punk Rocker #6",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiajlvdhtpuddfsbts443dewvy46jx7t7ytk2voks54s5cclcn5sj4",
+    "IPFS CID Image": "ipfs://bafybeicc7azqgaw5dh6n3zf6i5ikvbgsecb7ntp5xtrebgxhavd7zu6id4"
+  },
+  {
+    "NFT_Type": "Punk Rocker Female",
+    "Song to pair": " I love Rock n Roll ",
+    "File Name": "Character NFT MISC Punk Rocker F3 V2.jpg",
+    "NFT Name/Title": "Punk Rocker #7",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiajlvdhtpuddfsbts443dewvy46jx7t7ytk2voks54s5cclcn5sj4",
+    "IPFS CID Image": "ipfs://bafybeigbktcgfgwbdx7ytmg3kfl7d6spifuamgtw5hwy52g3h3pyjulpli"
+  },
+  {
+    "NFT_Type": "Punk Rocker Female",
+    "Song to pair": " I love Rock n Roll ",
+    "File Name": "Character NFT MISC Punk Rocker F4 V2.jpg",
+    "NFT Name/Title": "Punk Rocker #8",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeiajlvdhtpuddfsbts443dewvy46jx7t7ytk2voks54s5cclcn5sj4",
+    "IPFS CID Image": "ipfs://bafybeibhqgfkkaa2asem67ukluhsoqp2cdrpkeve5fnnvchjdp3eczgnma"
+  },
+  {
+    "NFT_Type": "Surfer ",
+    "Song to pair": " Wipe Out ",
+    "File Name": "Character NFT MISC Surfer F1 V2.jpg",
+    "NFT Name/Title": "Surfer #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeieneipmrqeuzqssika4vedtxvlhxlitqibdcemzcur2fqap3a2fnq",
+    "IPFS CID Image": "ipfs://bafybeig55oe2gavdgbcnhb5nrpjxt4jlop2dvra6odihnerpigsqqjhr2q"
+  },
+  {
+    "NFT_Type": "Surfer ",
+    "Song to pair": " Wipe Out ",
+    "File Name": "Character NFT MISC Surfer F2 V2.jpg",
+    "NFT Name/Title": "Surfer #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeieneipmrqeuzqssika4vedtxvlhxlitqibdcemzcur2fqap3a2fnq",
+    "IPFS CID Image": "ipfs://bafybeic7ojtj7kbczxipzvdvhlng3rtprjgdxekozfnxwtsrvibipq4zue"
+  },
+  {
+    "NFT_Type": "Surfer ",
+    "Song to pair": " Wipe Out ",
+    "File Name": "Character NFT MISC Surfer M1 V2.jpg",
+    "NFT Name/Title": "Surfer #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeieneipmrqeuzqssika4vedtxvlhxlitqibdcemzcur2fqap3a2fnq",
+    "IPFS CID Image": "ipfs://bafybeicbo45uujys7c7drzs7porysz4zqxiyuxfyxoagoimsy3cpsxfg2q"
+  },
+  {
+    "NFT_Type": "Surfer ",
+    "Song to pair": " Wipe Out ",
+    "File Name": "Character NFT MISC Surfer M2 V2.jpg",
+    "NFT Name/Title": "Surfer #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeieneipmrqeuzqssika4vedtxvlhxlitqibdcemzcur2fqap3a2fnq",
+    "IPFS CID Image": "ipfs://bafybeied5622o4ayh3e7nr7ueocsgz5yk6eq6zsnolrvlyjpnq7hz523au"
+  },
+  {
+    "NFT_Type": "DJ ( With Helmets)",
+    "Song to pair": " Around the World ",
+    "File Name": "Character NFT MISC DJ 1 V2.jpg",
+    "NFT Name/Title": "DJ #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeidll2vi75z6cdeokcxkla5cxwxqnrdqkyywriewinq4q2bscpn4zq",
+    "IPFS CID Image": "ipfs://bafybeidbmgmlkj3cib6dlkyfcwvol6zlpkrvfqw2ks44yabbmsopeslfiq"
+  },
+  {
+    "NFT_Type": "DJ ( With Helmets)",
+    "Song to pair": " Around the World ",
+    "File Name": "Character NFT MISC DJ 2 V2.jpg",
+    "NFT Name/Title": "DJ #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeidll2vi75z6cdeokcxkla5cxwxqnrdqkyywriewinq4q2bscpn4zq",
+    "IPFS CID Image": "ipfs://bafybeic27bcj2a7nsxjbjnz3krvgmj64jxyqrf37ynnb4iwibotzbpcqce"
+  },
+  {
+    "NFT_Type": "DJ ( With Helmets)",
+    "Song to pair": " Around the World ",
+    "File Name": "Character NFT MISC DJ 3 V2.jpg",
+    "NFT Name/Title": "DJ #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeidll2vi75z6cdeokcxkla5cxwxqnrdqkyywriewinq4q2bscpn4zq",
+    "IPFS CID Image": "ipfs://bafybeib4xogcimnfvbr53djtetdk6xgcvmir5mv2wts55vxycpebluez2a"
+  },
+  {
+    "NFT_Type": "DJ ( With Helmets)",
+    "Song to pair": " Around the World ",
+    "File Name": "Character NFT MISC DJ 4 V2.jpg",
+    "NFT Name/Title": "DJ #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeidll2vi75z6cdeokcxkla5cxwxqnrdqkyywriewinq4q2bscpn4zq",
+    "IPFS CID Image": "ipfs://bafybeiazjmtflgeaumjxormbw6drnujkmc6z3vq56r6g3dprhakjzepr3a"
+  },
+  {
+    "NFT_Type": "McDonalds Worker Male",
+    "Song to pair": " McDonalds Theme ",
+    "File Name": "Character NFT MISC MCD Worker M1 V2.jpg",
+    "NFT Name/Title": "Fast Food Worker #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafkreiczzme2lbpwi65r6lii6zgewvv4l4wm5titinyvgcks2qt357w6t4",
+    "IPFS CID Image": "ipfs://bafybeifmzzjt7skwn6jivwhuktrpf6cw4jt32uotwcnmox3kmkzxkwen4q"
+  },
+  {
+    "NFT_Type": "McDonalds Worker Male",
+    "Song to pair": " McDonalds Theme ",
+    "File Name": "Character NFT MISC MCD Worker M2 V2.jpg",
+    "NFT Name/Title": "Fast Food Worker #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafkreiczzme2lbpwi65r6lii6zgewvv4l4wm5titinyvgcks2qt357w6t4",
+    "IPFS CID Image": "ipfs://bafybeiagejiczqrsgjxithwokmjnscn24qdp4uyknkhcxwsxdwy5ymm7ri"
+  },
+  {
+    "NFT_Type": "McDonalds Worker Male",
+    "Song to pair": " McDonalds Theme ",
+    "File Name": "Character NFT MISC MCD Worker M3 V2.jpg",
+    "NFT Name/Title": "Fast Food Worker #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafkreiczzme2lbpwi65r6lii6zgewvv4l4wm5titinyvgcks2qt357w6t4",
+    "IPFS CID Image": "ipfs://bafybeibwcjr5wwz5gddero73r6tbsoh4l4kijtfnrvm2iiaf3vbtt4xkr4"
+  },
+  {
+    "NFT_Type": "McDonalds Worker Female",
+    "Song to pair": " McDonalds Theme ",
+    "File Name": "Character NFT MISC MCD Worker F1 V2.jpg",
+    "NFT Name/Title": "Fast Food Worker #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafkreiczzme2lbpwi65r6lii6zgewvv4l4wm5titinyvgcks2qt357w6t4",
+    "IPFS CID Image": "ipfs://bafybeiewcesh33rvnecphh5zivyxw5s4gx5vjnevxzebdhypa5terezfcm"
+  },
+  {
+    "NFT_Type": "McDonalds Worker Female",
+    "Song to pair": " McDonalds Theme ",
+    "File Name": "Character NFT MISC MCD Worker F2 V2.jpg",
+    "NFT Name/Title": "Fast Food Worker #5",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafkreiczzme2lbpwi65r6lii6zgewvv4l4wm5titinyvgcks2qt357w6t4",
+    "IPFS CID Image": "ipfs://bafybeih4qbhyty6pxftjuh3idblyjv7fknfsekz4thyuyqhe2yoij3afsu"
+  },
+  {
+    "NFT_Type": "McDonalds Worker Female",
+    "Song to pair": " McDonalds Theme ",
+    "File Name": "Character NFT MISC MCD Worker F3 V2.jpg",
+    "NFT Name/Title": "Fast Food Worker #6",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafkreiczzme2lbpwi65r6lii6zgewvv4l4wm5titinyvgcks2qt357w6t4",
+    "IPFS CID Image": "ipfs://bafybeiauirddh75tor3b6ktgqsgdoyvhns43ovffbwafl7nalg4k3djdii"
+  },
+  {
+    "NFT_Type": "Astronaut",
+    "Song to pair": "Avatar.mp3",
+    "File Name": "Character NFT MISC Astronaut F1 V2.jpg",
+    "NFT Name/Title": "Astronaut #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeid7nldn4cxkfflpla3vvpw72fc3fjt6u53kotqzjr6vidxexf2ggm",
+    "IPFS CID Image": "ipfs://bafybeiaaphcpxa2cmkjbohx2qboezen73tku5zesoypi52exgrck3qrhme"
+  },
+  {
+    "NFT_Type": "Astronaut",
+    "Song to pair": "Avatar.mp3",
+    "File Name": "Character NFT MISC Astronaut F2 V2.jpg",
+    "NFT Name/Title": "Astronaut #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeid7nldn4cxkfflpla3vvpw72fc3fjt6u53kotqzjr6vidxexf2ggm",
+    "IPFS CID Image": "ipfs://bafybeigtvmyegrxyydzohbacprqxkcuekqzbwgjqt76ocsktwbr23evbni"
+  },
+  {
+    "NFT_Type": "Astronaut",
+    "Song to pair": "Avatar.mp3",
+    "File Name": "Character NFT MISC Astronaut M1 V2.jpg",
+    "NFT Name/Title": "Astronaut #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeid7nldn4cxkfflpla3vvpw72fc3fjt6u53kotqzjr6vidxexf2ggm",
+    "IPFS CID Image": "ipfs://bafybeihxfpmm56xqhmxdrbsodflgkqihqelicruubbhowc3a22c7j6aqz4"
+  },
+  {
+    "NFT_Type": "Astronaut",
+    "Song to pair": "Avatar.mp3",
+    "File Name": "Character NFT MISC Astronaut M2 V2.jpg",
+    "NFT Name/Title": "Astronaut #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeid7nldn4cxkfflpla3vvpw72fc3fjt6u53kotqzjr6vidxexf2ggm",
+    "IPFS CID Image": "ipfs://bafybeiguvwrh4qj64dlnxhc45nkun2dqcnbtceehuakk2a4lthnejp2rnm"
+  },
+  {
+    "NFT_Type": "Rollerblading Male",
+    "Song to pair": "Don't You",
+    "File Name": "Character NFT MISC Rollerblader M1 V2.jpg",
+    "NFT Name/Title": "Rollerblader #1",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeicfp3xqazsyuo3ahkicbi57cylirk253xqr4y5dkitihpiv6banyu",
+    "IPFS CID Image": "ipfs://bafybeibuvevhp2pbypypevnczgpq25l4ln3cambucajqjvudi4bacpcuty"
+  },
+  {
+    "NFT_Type": "Rollerblading Male",
+    "Song to pair": "Don't You",
+    "File Name": "Character NFT MISC Rollerblader M2 V2.jpg",
+    "NFT Name/Title": "Rollerblader #3",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeicfp3xqazsyuo3ahkicbi57cylirk253xqr4y5dkitihpiv6banyu",
+    "IPFS CID Image": "ipfs://bafybeibti4vdc3ifqroxdakqaa7yavcytnhicxcj2cjrqogqxzvi7wvm7e"
+  },
+  {
+    "NFT_Type": "Rollerblading Female",
+    "Song to pair": "Don't You",
+    "File Name": "Character NFT MISC Rollerblader F1 V2.jpg",
+    "NFT Name/Title": "Rollerblader #2",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeicfp3xqazsyuo3ahkicbi57cylirk253xqr4y5dkitihpiv6banyu",
+    "IPFS CID Image": "ipfs://bafybeigzffjmx62kudirgel6yrz4mxebbgzwzethkyndxpvlqrlbzwcyi4"
+  },
+  {
+    "NFT_Type": "Rollerblading Female",
+    "Song to pair": "Don't You",
+    "File Name": "Character NFT MISC Rollerblader F2 V2.jpg",
+    "NFT Name/Title": "Rollerblader #4",
+    "Description": "Greasy Royale Miscellaneous Character",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeicfp3xqazsyuo3ahkicbi57cylirk253xqr4y5dkitihpiv6banyu",
+    "IPFS CID Image": "ipfs://bafybeiffgk3ramqd7du5uj6y626i7mee4rpbdlzoeqfrohr54bjygpttky"
+  },
+  {
+    "NFT_Type": "Prince",
+    "Song to pair": " When Doves Cry ",
+    "File Name": "Character NFT MISC Prince V2.jpg",
+    "NFT Name/Title": "Prince",
+    "Description": "Greasy Royale Pop Culture 1 of 5",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeigysmqbiinb7e3jjz4syvqgsj2qcz3tuwzwqtpinjo733mngpe3by",
+    "IPFS CID Image": "ipfs://bafybeif5qnnv4ndlob6cvtzkpgge5wb3vckbbr7sdykcxaewnbeyqnqqjy"
+  },
+  {
+    "NFT_Type": "Madonna",
+    "Song to pair": " Vogue ",
+    "File Name": "Character NFT MISC Madonna V2.jpg",
+    "NFT Name/Title": "Madonna",
+    "Description": "Greasy Royale Pop Culture 2 of 5",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeigagsvu43vjosolfa7pvammoshrlrx4wq4ofd6fp52czf2y4mn7vi",
+    "IPFS CID Image": "ipfs://bafybeig4uzmrvtves62swck6vxqdftriu4qz2upr2o63cjihn6oiemm2ru"
+  },
+  {
+    "NFT_Type": "David Bowie",
+    "Song to pair": " Under Pressure ",
+    "File Name": "Character NFT MISC David Bowie V2.jpg",
+    "NFT Name/Title": "David Bowie",
+    "Description": "Greasy Royale Pop Culture 3 of 5",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeifnhq5d5jz4e66b3253qkec2g7bqrxwfsumuipnbbbtrfwtxvjtda",
+    "IPFS CID Image": "ipfs://bafybeihhmdoz5vk3edsrd4yw3wms5meaaxiqfevsdm7i56b7kpubeeg43q"
+  },
+  {
+    "NFT_Type": "Slash",
+    "Song to pair": "Sweet child",
+    "File Name": "Character NFT MISC Slash V2.jpg",
+    "NFT Name/Title": "Slash",
+    "Description": "Greasy Royale Pop Culture 4 of 5",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeic4bd5bxawawpzsbncykszy2hrt6zm2fx3lhn7nlvlh4ztuwi6xhe",
+    "IPFS CID Image": "ipfs://bafybeih3i54fb7h6frkbvbk2t25yqbcunyjax3batdrcrdzely536csb54"
+  },
+  {
+    "NFT_Type": "Michael Jordan",
+    "Song to pair": "Sirius Chicago Bulls",
+    "File Name": "Character NFT MISC Michael Jordan V2.jpg",
+    "NFT Name/Title": "Michael Jordan",
+    "Description": "Greasy Royale Pop Culture 5 of 5",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeife7js7jmmgv6k2jsbaapn23kd2qfjt5jf7ezubzddxsja6twwngu",
+    "IPFS CID Image": "ipfs://bafybeidj4eegmpeviuc7mtzskuroajsjs6gru23x6geklqqpymldt42jxm"
+  },
+  {
+    "NFT_Type": "Kevin McCallister",
+    "Song to pair": "Home Along Theme",
+    "File Name": "Character NFT Home Alone Kevin McCallister V2.jpg",
+    "NFT Name/Title": "Kevin McCallister",
+    "Description": "Greasy Royale Home Alone 1 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeif4earytxoyiwhd6mxerih4p22t6mdu2o44bjflw7teptkqsamtwq",
+    "IPFS CID Image": "ipfs://bafybeie665ui4ikd73ezldaayp2i6av7ywdfiswxuw2feewcoq3l5yxhbu"
+  },
+  {
+    "NFT_Type": "Harry",
+    "Song to pair": "Home Along Theme",
+    "File Name": "Character NFT Home Alone HArry V2.jpg",
+    "NFT Name/Title": "Harry",
+    "Description": "Greasy Royale Home Alone 2 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeif4earytxoyiwhd6mxerih4p22t6mdu2o44bjflw7teptkqsamtwq",
+    "IPFS CID Image": "ipfs://bafybeidfcmh7a5o5lhwyb74g3okhpk47vcwnjus3mgmsuxdl2whippmdka"
+  },
+  {
+    "NFT_Type": "Marv",
+    "Song to pair": "Home Along Theme",
+    "File Name": "Character NFT Home Alone Marv V2.jpg",
+    "NFT Name/Title": "Marv",
+    "Description": "Greasy Royale Home Alone 3 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeif4earytxoyiwhd6mxerih4p22t6mdu2o44bjflw7teptkqsamtwq",
+    "IPFS CID Image": "ipfs://bafybeie5w7u4arzroppw5gqc2uwwcktx7ajrapr3do7oa6ezqrm253erui"
+  },
+  {
+    "NFT_Type": "T1000",
+    "Song to pair": " Terminator Theme ",
+    "File Name": "Character NFT Terminator T1000 V2.jpg",
+    "NFT Name/Title": "T1000",
+    "Description": "Greasy Royale Terminator 2 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeihdaiffde5kzqvyfv7rohxqqdhzstklsjkoyn6we752ip6znbjble",
+    "IPFS CID Image": "ipfs://bafybeid3q2eaxhi7zywhpvuiwe2n5orqm2ms23twnph65utl2sqb4o3mb4"
+  },
+  {
+    "NFT_Type": "Terminator",
+    "Song to pair": " Terminator Theme ",
+    "File Name": "Character NFT Terminator Terminator V2.jpg",
+    "NFT Name/Title": "Terminator",
+    "Description": "Greasy Royale Terminator 1 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeihdaiffde5kzqvyfv7rohxqqdhzstklsjkoyn6we752ip6znbjble",
+    "IPFS CID Image": "ipfs://bafybeiakbmg4uhgaazpdc5cdrkalvkmrk44zhpzvbzlx3jmszzqfkkxob4"
+  },
+  {
+    "NFT_Type": "John Connor",
+    "Song to pair": " Terminator Theme ",
+    "File Name": "Character NFT Terminator John Connor V2.jpg",
+    "NFT Name/Title": "John Connor",
+    "Description": "Greasy Royale Terminator 3 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeihdaiffde5kzqvyfv7rohxqqdhzstklsjkoyn6we752ip6znbjble",
+    "IPFS CID Image": "ipfs://bafybeidjkjgbrm2k4bfeutaqz66rumcymui6ewjzctq423tq4xg54z4ube"
+  },
+  {
+    "NFT_Type": "Teen Wolf",
+    "Song to pair": "Surfin USA",
+    "File Name": "Character NFT Teen Wolf Scott Howard V2.jpg",
+    "NFT Name/Title": "Teen Wolf",
+    "Description": "Greasy Royale Teen Wolf 1 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeihea3ojrlznpdspguqfvrag6iwcha4ymhh3ud2e3dvhvpnsu22gwu",
+    "IPFS CID Image": "ipfs://bafybeidc2cw7nseoow4yy2tcdrgm7x75rb246t45ymbrqmdjsucy4gyury"
+  },
+  {
+    "NFT_Type": "Stiles",
+    "Song to pair": "Surfin USA",
+    "File Name": "Character NFT Teen Wolf Stiles V2.jpg",
+    "NFT Name/Title": "Stiles",
+    "Description": "Greasy Royale Teen Wolf 2 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeihea3ojrlznpdspguqfvrag6iwcha4ymhh3ud2e3dvhvpnsu22gwu",
+    "IPFS CID Image": "ipfs://bafybeibh3mb65nctzb3ubfmlf35kcxjw3yskrvp725b33mekvy67ctm6v4"
+  },
+  {
+    "NFT_Type": "Boof",
+    "Song to pair": "Surfin USA",
+    "File Name": "Character NFT Teen Wolf Boof V2.jpg",
+    "NFT Name/Title": "Boof",
+    "Description": "Greasy Royale Teen Wolf 3 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeihea3ojrlznpdspguqfvrag6iwcha4ymhh3ud2e3dvhvpnsu22gwu",
+    "IPFS CID Image": "ipfs://bafybeibliqofqufy2kngwm4mtfw5bzzn5onc7toqilc3yth5d52pzniu5a"
+  },
+  {
+    "NFT_Type": "Wayne",
+    "Song to pair": "Bohemian Rhapsody",
+    "File Name": "Character NFT Wayne's World Wayne V2.jpg",
+    "NFT Name/Title": "Wayne",
+    "Description": "Greasy Royale Wayne's World 1of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeig5e4rz23yxirrw5uuf3bkluivuu5h6kzixq3m4gsujicof4wehcu",
+    "IPFS CID Image": "ipfs://bafybeibfi7r2kpcbe7hmj3c7ujbcx7rbh4dogb2eui73gz3upta4hbbrim"
+  },
+  {
+    "NFT_Type": "Garth",
+    "Song to pair": "Bohemian Rhapsody",
+    "File Name": "Character NFT Wayne's World Garth V2.jpg",
+    "NFT Name/Title": "Garth",
+    "Description": "Greasy Royale Wayne's World 2 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeig5e4rz23yxirrw5uuf3bkluivuu5h6kzixq3m4gsujicof4wehcu",
+    "IPFS CID Image": "ipfs://bafybeigcbvhj6rsj3hlevihpkhygoyz5ppofxu5kmsfxwdrsvnxe5qmilu"
+  },
+  {
+    "NFT_Type": "Cassandra",
+    "Song to pair": "Bohemian Rhapsody",
+    "File Name": "Character NFT Wayne's World Cassandra V2.jpg",
+    "NFT Name/Title": "Cassandra",
+    "Description": "Greasy Royale Wayne's World 3 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeig5e4rz23yxirrw5uuf3bkluivuu5h6kzixq3m4gsujicof4wehcu",
+    "IPFS CID Image": "ipfs://bafybeiegaty7auffvd3nzl3japefuaumpuuwnn5xehmb675ubnbn4ycuea"
+  },
+  {
+    "NFT_Type": "Doc ",
+    "Song to pair": "Back to the future theme",
+    "File Name": "Character NFT Back 2 The Future Doc V2.jpg",
+    "NFT Name/Title": "Doc ",
+    "Description": "Greasy Royale Back to the Future 2 of 4",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeid27bk5nnwzqmckjrmuqhfa4amuadtygsh7stfzbxtdoekcyircve",
+    "IPFS CID Image": "ipfs://bafybeidrizfcivyjnerqhdxi2c22wh3exycckxemxt2z3gf6qhizyblxtm"
+  },
+  {
+    "NFT_Type": "Marty",
+    "Song to pair": "Back to the future theme",
+    "File Name": "Character NFT Back 2 The Future Marty V2.jpg",
+    "NFT Name/Title": "Marty",
+    "Description": "Greasy Royale Back to the Future 1 of 4",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeid27bk5nnwzqmckjrmuqhfa4amuadtygsh7stfzbxtdoekcyircve",
+    "IPFS CID Image": "ipfs://bafybeibls72kekksgep23vaqgydisfjznjmvyhozwcsk6umo5mmj5aupmq"
+  },
+  {
+    "NFT_Type": "Biff Tannen",
+    "Song to pair": "Back to the future theme",
+    "File Name": "Character NFT Back 2 The Future Biff V2.jpg",
+    "NFT Name/Title": "Biff Tannen",
+    "Description": "Greasy Royale Back to the Future 3 of 4",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeid27bk5nnwzqmckjrmuqhfa4amuadtygsh7stfzbxtdoekcyircve",
+    "IPFS CID Image": "ipfs://bafybeiedyz3f4wdwtdu327uqkckpagpdsztfat7pc5vouigqf4njcygdbq"
+  },
+  {
+    "NFT_Type": "Lorraine",
+    "Song to pair": "Back to the future theme",
+    "File Name": "Character NFT Back 2 The Future Jennifer V2",
+    "NFT Name/Title": "Jennifer",
+    "Description": "Greasy Royale Back to the Future 4 of 4",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeid27bk5nnwzqmckjrmuqhfa4amuadtygsh7stfzbxtdoekcyircve",
+    "IPFS CID Image": "ipfs://bafybeifxr5lmhfzdeyqckcitu3g6wjc77xxa2d3uo3moifczygzyjetwre"
+  },
+  {
+    "NFT_Type": "Hulk Hogan",
+    "Song to pair": " Real American  ",
+    "File Name": "Character NFT WWE Hulk Hogan V2.jpg",
+    "NFT Name/Title": "Hulk Hogan",
+    "Description": "Greasy Royale WWE 2 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeic7madrb7nach5czjtno22qr772kbz2prtmtt57w5gu7csdnf7qqe",
+    "IPFS CID Image": "ipfs://bafybeihjshgylqvjwnhjz7guhwukkmbwq23z7rs7u6a2rs3x4p3fhz6364"
+  },
+  {
+    "NFT_Type": "Randy Savage",
+    "Song to pair": " Pomp and Curcumstance ",
+    "File Name": "Character NFT WWE Randy Savage V2.jpg",
+    "NFT Name/Title": "Randy Savage",
+    "Description": "Greasy Royale WWE 1 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeibnqg7ncwl4mzquhjontbegczdsqlyfcvupxuap5o3mhj6vxdchzi",
+    "IPFS CID Image": "ipfs://bafybeifzpsgl64fe4wjg3jzivjanksgnncpuswmjc6hbgb64zcdaup5ugy"
+  },
+  {
+    "NFT_Type": "The Ultimate Warrior",
+    "Song to pair": "Ultimate warrior theme song",
+    "File Name": "Character NFT WWE The Ultimate Warrior V2.jpg",
+    "NFT Name/Title": "The Ultimate Warrior",
+    "Description": "Greasy Royale WWE 3 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeigiy6edywzuoj3knv27uozel2sipqaunfi3ubnxhcvhbhb3ktnmm4",
+    "IPFS CID Image": "ipfs://bafybeigebvlk4djhvfmq5n6cjhu4f7ogalnoeps7a7e2jdxsffwdhrla6e"
+  },
+  {
+    "NFT_Type": "Maverick",
+    "Song to pair": " Top Gun Theme Song ",
+    "File Name": "Character NFT Top Gun Maverick V2.jpg",
+    "NFT Name/Title": "Maverick",
+    "Description": "Greasy Royale Top Gun 1 of 4",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeidb2hejriqfxxj6fhwtcyiwap3n4xqkd47jdqjksvl6e53aygette",
+    "IPFS CID Image": "ipfs://bafybeickj2fgtkoenfglnryqa4ybiufb46cssrqkvtfwraoqfja2ujg55i"
+  },
+  {
+    "NFT_Type": "Goose",
+    "Song to pair": " Top Gun Theme Song ",
+    "File Name": "Character NFT Top Gun Goose V2.jpg",
+    "NFT Name/Title": "Goose",
+    "Description": "Greasy Royale Top Gun 2 of 4",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeidb2hejriqfxxj6fhwtcyiwap3n4xqkd47jdqjksvl6e53aygette",
+    "IPFS CID Image": "ipfs://bafybeie33ysylvzcsoo3q3xcsu2g5lzqvxy6pcqz6acxs5se2mu4fl6nhi"
+  },
+  {
+    "NFT_Type": "Ice Man",
+    "Song to pair": " Top Gun Theme Song ",
+    "File Name": "Character NFT Top Gun Ice Man V2.jpg",
+    "NFT Name/Title": "Ice Man",
+    "Description": "Greasy Royale Top Gun 3 of 4",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeidb2hejriqfxxj6fhwtcyiwap3n4xqkd47jdqjksvl6e53aygette",
+    "IPFS CID Image": "ipfs://bafybeigsqqukaw6io6a2ulwmcuegvem5lkuaobely76fvtlom5n5bajuqq"
+  },
+  {
+    "NFT_Type": "Charlie",
+    "Song to pair": " Top Gun Theme Song ",
+    "File Name": "Character NFT Top Gun Charlie V2.jpg",
+    "NFT Name/Title": "Charlie",
+    "Description": "Greasy Royale Top Gun 4 of 4",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeidb2hejriqfxxj6fhwtcyiwap3n4xqkd47jdqjksvl6e53aygette",
+    "IPFS CID Image": "ipfs://bafybeiagnzqeex7jomjfbo2lrlxdhdfl645kjmxpmg3j6v3rnfl44taavy"
+  },
+  {
+    "NFT_Type": "Indiana",
+    "Song to pair": "Indiana Jones Theme Song",
+    "File Name": "Character NFT Indiana Jones Indiana V2.jpg",
+    "NFT Name/Title": "Indiana",
+    "Description": "Greasy Royale Indiana Jones 1 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeidc6bw5h2xa6e4grgvlqs732mvaes4culseiwoyj2bjk7p5z6xqoe",
+    "IPFS CID Image": "ipfs://bafybeibc5drzc5awvxwja6lwhjdoc2tem46s4ahzmsosxducxz7pzs6v2a"
+  },
+  {
+    "NFT_Type": "Marion",
+    "Song to pair": "Indiana Jones Theme Song",
+    "File Name": "Character NFT Indiana Jones Marion V2.jpg",
+    "NFT Name/Title": "Marion",
+    "Description": "Greasy Royale Indiana Jones 2 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeidc6bw5h2xa6e4grgvlqs732mvaes4culseiwoyj2bjk7p5z6xqoe",
+    "IPFS CID Image": "ipfs://bafybeifa4jrxlszw4ekfdxbbvwfdpbvgb2qdinxicmt7zfifavva4bydpm"
+  },
+  {
+    "NFT_Type": "Short Round",
+    "Song to pair": "Indiana Jones Theme Song",
+    "File Name": "Character NFT Indiana Jones Short Round V2.jpg",
+    "NFT Name/Title": "Short Round",
+    "Description": "Greasy Royale Indiana Jones 3 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeidc6bw5h2xa6e4grgvlqs732mvaes4culseiwoyj2bjk7p5z6xqoe",
+    "IPFS CID Image": "ipfs://bafybeiemie5q26uej4v237p26druh6n7qpyc6skw532t7526ydufb7v3ry"
+  },
+  {
+    "NFT_Type": "Eazy E",
+    "Song to pair": "Nothin but a g thang",
+    "File Name": "Character NFT NWA Eazy E V2",
+    "NFT Name/Title": "Eazy E",
+    "Description": "Greasy Royale NWA 1 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeifsqr7gypumvtxxsjnwvbttoofreqtdudn5bdt4eh4akiygizx7lu",
+    "IPFS CID Image": "ipfs://bafybeiafe2wr6fmaqutpfsfiniinjxk7kntpuog2geptuhexkszgxzd5au"
+  },
+  {
+    "NFT_Type": "Ice Cube",
+    "Song to pair": "Nothin but a g thang",
+    "File Name": "Character NFT NWA Ice Cube V2",
+    "NFT Name/Title": "Ice Cube",
+    "Description": "Greasy Royale NWA 2 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeifsqr7gypumvtxxsjnwvbttoofreqtdudn5bdt4eh4akiygizx7lu",
+    "IPFS CID Image": "ipfs://bafybeigjneektulpjzss5lkgw5htt3v5uh7i5q4ab35t5v5j3x3iaai54y"
+  },
+  {
+    "NFT_Type": "Dr. Dre",
+    "Song to pair": "Nothin but a g thang",
+    "File Name": "Character NFT NWA  Dr Dre V2.jpg",
+    "NFT Name/Title": "Dr. Dre",
+    "Description": "Greasy Royale NWA 3 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeifsqr7gypumvtxxsjnwvbttoofreqtdudn5bdt4eh4akiygizx7lu",
+    "IPFS CID Image": "ipfs://bafybeiee2wc6rbxokvm3dzkjxdbxsmenvc4rdaih6age2spocgdsggbgpi"
+  },
+  {
+    "NFT_Type": "David Hasslehoff",
+    "Song to pair": "Bay Watch Theme Song",
+    "File Name": "Character NFT Baywatch Mitch Buchannon V2.jpg",
+    "NFT Name/Title": "Mitch Buchannon",
+    "Description": "Greasy Royale Baywatch 2 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeihghpq3xkoat5d34lewgztkbadrcqi3mzsd5lpkvvmtqp72b42iou",
+    "IPFS CID Image": "ipfs://bafybeicp2xwegawvwenix7hdfwxe6d3eh4cfgu5ws3eeawgwawjwicjkvu"
+  },
+  {
+    "NFT_Type": "Pamela Anderson",
+    "Song to pair": "Bay Watch Theme Song",
+    "File Name": "Character NFT Baywatch Pam V2.jpg",
+    "NFT Name/Title": "CJ Parker",
+    "Description": "Greasy Royale Baywatch 1 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeihghpq3xkoat5d34lewgztkbadrcqi3mzsd5lpkvvmtqp72b42iou",
+    "IPFS CID Image": "ipfs://bafybeigpbr7hpcxj5bhgdzb53iwjc4urdg77ziy5iasa4aqw47dvl7e7xi"
+  },
+  {
+    "NFT_Type": "Carmen Electra",
+    "Song to pair": "Bay Watch Theme Song",
+    "File Name": "Character NFT Baywatch Lani Mckenzie V2.jpg",
+    "NFT Name/Title": "Lani Mckenzie",
+    "Description": "Greasy Royale Baywatch 3 of 3",
+    "Number to mint": 1,
+    "IPFS CID Audio": "ipfs://bafybeihghpq3xkoat5d34lewgztkbadrcqi3mzsd5lpkvvmtqp72b42iou",
+    "IPFS CID Image": "ipfs://bafybeief3umbm5k6ldqjtehs4ctv77h6vzfcswl3vyrxoz5mhr7cr54j6y"
+  }
+]
